@@ -1,0 +1,7 @@
+# OS
+.DS_Store
+Icon?
+
+# Logs
+logs
+*.log*
