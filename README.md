@@ -4,10 +4,12 @@ VIVITA Font は VIVITA コミュニティのロゴやブランドだけではな
 
 シンプルながらソリッドなシェイプは、可愛らしい子どものようにも、かっこいい大人のようにも見えます。そこには大人と子どもを隔てない VIVITA の考えが含まれています。
 
-![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)
-![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)
+## Releases
 
-## Download
+- [Latest release](https://github.com/vivitainc/VIVITAFont/releases/tag/v0.8.0)
+- [All releases](https://github.com/vivitainc/VIVITAFont/releases)
 
-You can download all VIVITA Font files in a ZIP from
-https://github.com/vivitainc/VIVITAFont/archive/master.zip
+## Screenshot
+
+![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)
+
