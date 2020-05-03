@@ -5,3 +5,9 @@ Icon?
 # Logs
 logs
 *.log*
+
+# font binaries in master branch
+OTF/
+TTF/
+WOFF/
+WOFF2/
