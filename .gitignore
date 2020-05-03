@@ -6,8 +6,5 @@ Icon?
 logs
 *.log*
 
-# font binaries in master branch
-OTF/
-TTF/
-WOFF/
-WOFF2/
+# source files
+src/
