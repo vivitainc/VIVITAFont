@@ -9,7 +9,10 @@ VIVITA Font は VIVITA コミュニティのブランドだけではなく、子
 - [Latest release](https://github.com/vivitainc/VIVITAFont/releases/latest)
 - [All releases](https://github.com/vivitainc/VIVITAFont/releases)
 
-## Screenshot
+## Open source files
 
-![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)
+The source files of VIVITA Font are available in [the master branch](https://github.com/vivitainc/VIVITAFont/tree/master).
 
+## Screenshots
+
+![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)![number](https://github.com/vivitainc/VIVITAFont/blob/master/images/number.png)![punctuation](https://github.com/vivitainc/VIVITAFont/blob/master/images/punctuation.png)
