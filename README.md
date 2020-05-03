@@ -6,7 +6,7 @@ VIVITA Font は VIVITA コミュニティのブランドだけではなく、子
 
 ## Releases
 
-- [Latest release](https://github.com/vivitainc/VIVITAFont/releases/tag/v0.8.0)
+- [Latest release](https://github.com/vivitainc/VIVITAFont/releases/latest)
 - [All releases](https://github.com/vivitainc/VIVITAFont/releases)
 
 ## Screenshot
