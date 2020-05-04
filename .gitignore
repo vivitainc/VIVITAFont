@@ -2,9 +2,9 @@
 .DS_Store
 Icon?
 
-# Logs
-logs
-*.log*
+# Autosave
+src/*（自動保存）.glyphs
+src/*(autosave).glyphs
 
 # build folder
 build/
