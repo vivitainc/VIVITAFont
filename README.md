@@ -1,17 +1,19 @@
 ![title](https://github.com/vivitainc/VIVITAFont/blob/master/images/title.png)
 
-VIVITA Font は VIVITA コミュニティのブランドだけではなく、子ども達のに寄り添うことを目的にデザインされた [Display typeface](https://en.wikipedia.org/wiki/Display_typeface) フォントファミリーです。
+VIVITA Font is a [Display Typeface](https://en.wikipedia.org/wiki/Display_typeface) font family designed for the brands of VIVITA community and the creativity of children around the world.
+The letters shape that looks like young children or cool adults includes the essence of VIVITA that does not separate children from adults.
 
-シンプルながらソリッドなシェイプは、可愛らしい子どものようにも、かっこいい大人のようにも見えます。そこには子どもと大人を隔てない VIVITA の想いが込められています。
+## Source files
+
+- src/*.glyphs: a single source file created using [Glyphs.app](https://glyphsapp.com/).
 
 ## Releases
 
 - [Latest release](https://github.com/vivitainc/VIVITAFont/releases/latest)
 - [All releases](https://github.com/vivitainc/VIVITAFont/releases)
 
-## Open source files
-
-The source files of VIVITA Font are available in [the master branch](https://github.com/vivitainc/VIVITAFont/tree/master).
+# License
+VIVITA Font source (under the src subdirectory) is under the [Apache License 2.0](https://github.com/vivitainc/VIVITAFont/blob/master/LICENSE).
 
 ## Screenshots
 
