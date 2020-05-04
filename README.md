@@ -12,7 +12,7 @@ The letters shape that looks like young children or cool adults includes the ess
 
 The source files of VIVITA Font are available in [the master branch](https://github.com/vivitainc/VIVITAFont/tree/master).
 
-# License
+## License
 VIVITA Font is under the [Apache License 2.0](https://github.com/vivitainc/VIVITAFont/blob/release/LICENSE).
 
 ## Screenshots
