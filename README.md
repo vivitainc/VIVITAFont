@@ -17,6 +17,6 @@ VIVITA Font source (under the src subdirectory) is under the [Apache License 2.0
 
 ## Screenshots
 
-![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)![number](https://github.com/vivitainc/VIVITAFont/blob/master/images/number.png)![punctuation](https://github.com/vivitainc/VIVITAFont/blob/master/images/punctuation.png)
+![upper](https://github.com/vivitainc/VIVITAFont/blob/master/images/upper.png)![lower](https://github.com/vivitainc/VIVITAFont/blob/master/images/lower.png)![number](https://github.com/vivitainc/VIVITAFont/blob/master/images/number.png)![punctuation](https://github.com/vivitainc/VIVITAFont/blob/master/images/punctuation.png)![symbol](https://github.com/vivitainc/VIVITAFont/blob/master/images/symbol.png)
 
 
